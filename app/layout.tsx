@@ -14,26 +14,24 @@ export const metadata: Metadata = {
   title: "Temple Construction Fund | Sacred Space for All",
   description:
     "Join us in building a spiritual sanctuary for meditation, prayer, and community. Support our temple construction with your donation.",
-  generator: "v0.app",
-  icons: {
+   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/k.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/k.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/k.png",
         type: "image/svg+xml",
       },
     ],
     apple: "/apple-icon.png",
   },
 }
-
 export default function RootLayout({
   children,
 }: Readonly<{
