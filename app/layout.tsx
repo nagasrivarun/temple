@@ -17,15 +17,15 @@ export const metadata: Metadata = {
    icons: {
     icon: [
       {
-        url: "/klm.png",
+        url: "/klmn.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/klm.png",
+        url: "/klmn.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/klm.png",
+        url: "/klmn.png",
         type: "image/svg+xml",
       },
     ],
